@@ -8,7 +8,7 @@ from PIL import Image
 import time
 import functools
 
-%tensorflow_version 1.x
+#%tensorflow_version 1.x
 import tensorflow as tf
 
 from tensorflow.python.keras.preprocessing import image as kp_image
